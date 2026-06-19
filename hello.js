@@ -1,8 +1,5 @@
-{
-  "name": "seo-project",
-  "version": "1.0.0",
-  "main": "hello.js",
-  "scripts": {
-    "start": "node hello.js"
-  }
-}
+// SEO Project Documentation
+// Reference: https://docs.paperclip.ing/#/
+
+console.log('SEO Project initialized');
+console.log('Documentation: https://docs.paperclip.ing/#/');
