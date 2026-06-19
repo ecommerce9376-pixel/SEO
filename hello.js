@@ -1,1 +1,8 @@
-
+{
+  "name": "seo-project",
+  "version": "1.0.0",
+  "main": "hello.js",
+  "scripts": {
+    "start": "node hello.js"
+  }
+}
